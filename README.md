@@ -1,2 +1,2 @@
-# HUST_CS_-
+# HUST_CS_Data-Analysis
 华中科技大学CS大三数值分析理论课ppt及复习资料
